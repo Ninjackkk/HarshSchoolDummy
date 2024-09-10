@@ -1,0 +1,15 @@
+﻿@{
+    ViewData["Title"] = "Teacher Dashboard";
+}
+
+<h2>Teacher Dashboard</h2>
+
+<nav>
+    <ul>
+        <li><a asp-controller="Assignment" asp-action="Create">Assign Assignment</a></li>
+        <li><a asp-controller="Timetable" asp-action="Upload">Upload Timetable</a></li>
+        <li><a asp-controller="LeaveRequest" asp-action="Create">Apply for Leave</a></li>
+        <li><a asp-controller="TeacherProfile" asp-action="Edit">Edit Profile</a></li>
+        <li><a asp-controller="Account" asp-action="Logout">Logout</a></li>
+    </ul>
+</nav>

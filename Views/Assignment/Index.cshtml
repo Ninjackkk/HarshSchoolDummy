@@ -1,0 +1,39 @@
+﻿@model IEnumerable<ManagementSchool.Models.Assignment>
+
+@{
+    ViewData["Title"] = "Assignment List";
+}
+
+<h2>Assignments</h2>
+
+<table class="table table-striped">
+    <thead>
+        <tr>
+            <th>Title</th>
+            <th>Description</th>
+            <th>Class</th>
+            <th>Subject</th>
+            <th>Assign Date</th>
+            <th>Submission Date</th>
+            <th>Actions</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var assignment in Model)
+        {
+            <tr>
+                <td>@assignment.Title</td>
+                <td>@assignment.Description</td>
+                <td>@assignment.Class.ClassName</td>
+                <td>@assignment.Subject.SubjectName</td>
+                <td>@assignment.AssignDate.ToString("dd-MM-yyyy")</td>
+                <td>@assignment.SubmissionDate.ToString("dd-MM-yyyy")</td>
+                <td>
+                    <a asp-action="DownloadResponse" asp-route-id="@assignment.AssignmentId" class="btn btn-primary">Download Responses</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+<a asp-action="Create" class="btn btn-success">Create New Assignment</a>

@@ -1,0 +1,36 @@
+﻿@model IEnumerable<ManagementSchool.Models.Student>
+
+<h2>Mark Attendance</h2>
+
+<form asp-action="Mark" method="post">
+    <!-- Hidden fields to pass classId and date in the form submission -->
+    <input type="hidden" name="classId" value="@ViewBag.ClassId" />
+    <input type="hidden" name="date" value="@ViewBag.Date" />
+
+    <div>
+        <h4>Date: @ViewBag.Date</h4>
+    </div>
+
+    <table class="table">
+        <thead>
+            <tr>
+                <th>Student Name</th>
+                <th>Present</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var student in Model)
+            {
+                <tr>
+                    <td>@student.FirstName @student.LastName</td>
+                    <td>
+                        <!-- Checkbox to mark if the student is present -->
+                        <input type="checkbox" name="presentStudentIds" value="@student.StudentId" />
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+
+    <button type="submit" class="btn btn-primary">Submit Attendance</button>
+</form>

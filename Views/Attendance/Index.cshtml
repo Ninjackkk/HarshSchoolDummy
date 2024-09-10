@@ -1,0 +1,43 @@
+﻿@model IEnumerable<ManagementSchool.Models.Attendance>
+
+@{
+    ViewData["Title"] = "Attendance Records";
+}
+
+<h2>Attendance Records</h2>
+
+@if (Model != null && Model.Any())
+{
+    <table class="table table-striped">
+        <thead>
+            <tr>
+                <th>Student Name</th>
+                <th>Date</th>
+                <th>Present</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var record in Model)
+            {
+                <tr>
+                    <td>@record.Student.FirstName @record.Student.LastName</td>
+                    <td>@record.Date.ToString("yyyy-MM-dd")</td>
+                    <td>
+                        @if (record.IsPresent)
+                        {
+                            <span class="badge badge-success">Present</span>
+                        }
+                        else
+                        {
+                            <span class="badge badge-danger">Absent</span>
+                        }
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+}
+else
+{
+    <p>No attendance records found.</p>
+}

@@ -1,0 +1,18 @@
+﻿<!-- Views/Timetable/Upload.cshtml -->
+@model ManagementSchool.Models.Timetable
+
+<h2>Upload Timetable</h2>
+<form asp-action="Upload" method="post" enctype="multipart/form-data">
+    <div class="form-group">
+        <label asp-for="ClassId">Class</label>
+        @Html.DropDownList("ClassId", (SelectList)ViewData["ClassId"], "Select Class", new { @class = "form-control" })
+        <span asp-validation-for="ClassId" class="text-danger"></span>
+    </div>
+
+    <div class="form-group">
+        <label>Upload Timetable</label>
+        <input type="file" name="file" class="form-control" />
+    </div>
+
+    <button type="submit" class="btn btn-primary">Upload Timetable</button>
+</form>

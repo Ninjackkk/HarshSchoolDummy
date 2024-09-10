@@ -1,0 +1,71 @@
+﻿@model ManagementSchool.Models.Teacher
+
+@{
+    ViewData["Title"] = "Add Teacher";
+}
+
+<h2>Add Teacher</h2>
+
+<form asp-action="Create" method="post">
+    <div class="form-group">
+        <label asp-for="FirstName"></label>
+        <input asp-for="FirstName" class="form-control" />
+        <span asp-validation-for="FirstName" class="text-danger"></span>
+    </div>
+
+    <div class="form-group">
+        <label asp-for="LastName"></label>
+        <input asp-for="LastName" class="form-control" />
+        <span asp-validation-for="LastName" class="text-danger"></span>
+    </div>
+
+    <div class="form-group">
+        <label asp-for="Qualification"></label>
+        <input asp-for="Qualification" class="form-control" />
+        <span asp-validation-for="Qualification" class="text-danger"></span>
+    </div>
+
+    <div class="form-group">
+        <label asp-for="Email"></label>
+        <input asp-for="Email" class="form-control" />
+        <span asp-validation-for="Email" class="text-danger"></span>
+    </div>
+
+    <div class="form-group">
+        <label asp-for="HireDate"></label>
+        <input asp-for="HireDate" type="date" class="form-control" />
+        <span asp-validation-for="HireDate" class="text-danger"></span>
+    </div>
+
+    <div class="form-group">
+        <label asp-for="UserId"></label>
+        <input asp-for="UserId" class="form-control" />
+        <span asp-validation-for="UserId" class="text-danger"></span>
+    </div>
+
+    <div class="form-group">
+        <label asp-for="Password"></label>
+        <input asp-for="Password" type="password" class="form-control" />
+        <span asp-validation-for="Password" class="text-danger"></span>
+    </div>
+
+    <div class="form-group">
+        <label asp-for="MonthlySalary"></label>
+        <input asp-for="MonthlySalary" type="number" step="0.01" class="form-control" />
+        <span asp-validation-for="MonthlySalary" class="text-danger"></span>
+    </div>
+
+    <div class="form-group">
+        <label asp-for="ClassId">Class</label>
+        @Html.DropDownListFor(model => model.ClassId, (SelectList)ViewData["Classes"], "Select Class", new { @class = "form-control" })
+        <span asp-validation-for="ClassId" class="text-danger"></span>
+    </div>
+
+    <div class="form-group">
+        <label asp-for="SubjectId">Subject</label>
+        @Html.DropDownListFor(model => model.SubjectId, (SelectList)ViewData["Subjects"], "Select Subject", new { @class = "form-control" })
+        <span asp-validation-for="SubjectId" class="text-danger"></span>
+    </div>
+
+    <button type="submit" class="btn btn-primary">Add Teacher</button>
+</form>

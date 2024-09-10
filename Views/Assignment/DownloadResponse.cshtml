@@ -1,0 +1,33 @@
+﻿@model IEnumerable<ManagementSchool.Models.AssignmentResponse>
+
+@{
+    ViewData["Title"] = "Assignment Responses";
+}
+
+<h2>Responses for Assignment: @ViewBag.AssignmentTitle</h2>
+
+<table class="table table-striped">
+    <thead>
+        <tr>
+            <th>Student Name</th>
+            <th>Submission Date</th>
+            <th>Download Response</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var response in Model)
+        {
+            <tr>
+                <td>@response.Student.FirstName</td>
+               @*  <td>@response.SubmissionDate.ToString("dd-MM-yyyy")</td> *@
+                <td>
+                    <a asp-action="DownloadResponse" asp-route-id="@response.AssignmentResponseId" class="btn btn-primary">
+                        Download
+                    </a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+<a asp-action="Index" class="btn btn-secondary">Back to Assignments</a>

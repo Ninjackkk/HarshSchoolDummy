@@ -1,0 +1,34 @@
+﻿@model ManagementSchool.Models.TeacherProfile
+
+@{
+    ViewData["Title"] = "Teacher Profile";
+}
+
+<h2>Teacher Profile</h2>
+
+<div class="form-group">
+    <label>First Name:</label>
+    <p>@Model.FirstName</p>
+</div>
+
+<div class="form-group">
+    <label>Last Name:</label>
+    <p>@Model.LastName</p>
+</div>
+
+<div class="form-group">
+    <label>Email:</label>
+    <p>@Model.Email</p>
+</div>
+
+<div class="form-group">
+    <label>Qualification:</label>
+    <p>@Model.Qualification</p>
+</div>
+
+<div class="form-group">
+    <label>Monthly Salary:</label>
+    <p>@Model.MonthlySalary.ToString("C")</p>
+</div>
+
+<a asp-controller="Home" asp-action="Index" class="btn btn-secondary">Back to Home</a>
