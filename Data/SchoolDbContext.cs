@@ -9,7 +9,7 @@ namespace ManagementSchool.Data
         public SchoolDbContext(DbContextOptions<SchoolDbContext> options) : base(options)
         {
         }
-
+        //
         // DbSets for each model
         public DbSet<Teacher> Teachers { get; set; }
         public DbSet<Class> Classes { get; set; }
