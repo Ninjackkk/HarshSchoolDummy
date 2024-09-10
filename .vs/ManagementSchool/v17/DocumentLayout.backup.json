@@ -1,0 +1,632 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ajay_\\Downloads\\ManagementSchool\\ManagementSchool\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DD7DAACD-3F98-4D77-BB31-8A428AC876CD}|ManagementSchool.csproj|c:\\users\\ajay_\\downloads\\managementschool\\managementschool\\views\\attendance\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DD7DAACD-3F98-4D77-BB31-8A428AC876CD}|ManagementSchool.csproj|solutionrelative:views\\attendance\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD7DAACD-3F98-4D77-BB31-8A428AC876CD}|ManagementSchool.csproj|c:\\users\\ajay_\\downloads\\managementschool\\managementschool\\controllers\\attendancecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD7DAACD-3F98-4D77-BB31-8A428AC876CD}|ManagementSchool.csproj|solutionrelative:controllers\\attendancecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD7DAACD-3F98-4D77-BB31-8A428AC876CD}|ManagementSchool.csproj|c:\\users\\ajay_\\downloads\\managementschool\\managementschool\\views\\attendance\\mark.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DD7DAACD-3F98-4D77-BB31-8A428AC876CD}|ManagementSchool.csproj|solutionrelative:views\\attendance\\mark.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD7DAACD-3F98-4D77-BB31-8A428AC876CD}|ManagementSchool.csproj|c:\\users\\ajay_\\downloads\\managementschool\\managementschool\\models\\attendance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD7DAACD-3F98-4D77-BB31-8A428AC876CD}|ManagementSchool.csproj|solutionrelative:models\\attendance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD7DAACD-3F98-4D77-BB31-8A428AC876CD}|ManagementSchool.csproj|c:\\users\\ajay_\\downloads\\managementschool\\managementschool\\data\\schooldbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD7DAACD-3F98-4D77-BB31-8A428AC876CD}|ManagementSchool.csproj|solutionrelative:data\\schooldbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD7DAACD-3F98-4D77-BB31-8A428AC876CD}|ManagementSchool.csproj|c:\\users\\ajay_\\downloads\\managementschool\\managementschool\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD7DAACD-3F98-4D77-BB31-8A428AC876CD}|ManagementSchool.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD7DAACD-3F98-4D77-BB31-8A428AC876CD}|ManagementSchool.csproj|c:\\users\\ajay_\\downloads\\managementschool\\managementschool\\views\\student\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DD7DAACD-3F98-4D77-BB31-8A428AC876CD}|ManagementSchool.csproj|solutionrelative:views\\student\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD7DAACD-3F98-4D77-BB31-8A428AC876CD}|ManagementSchool.csproj|c:\\users\\ajay_\\downloads\\managementschool\\managementschool\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD7DAACD-3F98-4D77-BB31-8A428AC876CD}|ManagementSchool.csproj|solutionrelative:controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD7DAACD-3F98-4D77-BB31-8A428AC876CD}|ManagementSchool.csproj|c:\\users\\ajay_\\downloads\\managementschool\\managementschool\\views\\student\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DD7DAACD-3F98-4D77-BB31-8A428AC876CD}|ManagementSchool.csproj|solutionrelative:views\\student\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD7DAACD-3F98-4D77-BB31-8A428AC876CD}|ManagementSchool.csproj|c:\\users\\ajay_\\downloads\\managementschool\\managementschool\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD7DAACD-3F98-4D77-BB31-8A428AC876CD}|ManagementSchool.csproj|solutionrelative:models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD7DAACD-3F98-4D77-BB31-8A428AC876CD}|ManagementSchool.csproj|c:\\users\\ajay_\\downloads\\managementschool\\managementschool\\views\\teacherprofile\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DD7DAACD-3F98-4D77-BB31-8A428AC876CD}|ManagementSchool.csproj|solutionrelative:views\\teacherprofile\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD7DAACD-3F98-4D77-BB31-8A428AC876CD}|ManagementSchool.csproj|c:\\users\\ajay_\\downloads\\managementschool\\managementschool\\controllers\\teacherprofilecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD7DAACD-3F98-4D77-BB31-8A428AC876CD}|ManagementSchool.csproj|solutionrelative:controllers\\teacherprofilecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD7DAACD-3F98-4D77-BB31-8A428AC876CD}|ManagementSchool.csproj|c:\\users\\ajay_\\downloads\\managementschool\\managementschool\\models\\teacherprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD7DAACD-3F98-4D77-BB31-8A428AC876CD}|ManagementSchool.csproj|solutionrelative:models\\teacherprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD7DAACD-3F98-4D77-BB31-8A428AC876CD}|ManagementSchool.csproj|c:\\users\\ajay_\\downloads\\managementschool\\managementschool\\controllers\\leaverequestcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD7DAACD-3F98-4D77-BB31-8A428AC876CD}|ManagementSchool.csproj|solutionrelative:controllers\\leaverequestcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD7DAACD-3F98-4D77-BB31-8A428AC876CD}|ManagementSchool.csproj|c:\\users\\ajay_\\downloads\\managementschool\\managementschool\\controllers\\assignmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD7DAACD-3F98-4D77-BB31-8A428AC876CD}|ManagementSchool.csproj|solutionrelative:controllers\\assignmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD7DAACD-3F98-4D77-BB31-8A428AC876CD}|ManagementSchool.csproj|c:\\users\\ajay_\\downloads\\managementschool\\managementschool\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD7DAACD-3F98-4D77-BB31-8A428AC876CD}|ManagementSchool.csproj|solutionrelative:controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD7DAACD-3F98-4D77-BB31-8A428AC876CD}|ManagementSchool.csproj|c:\\users\\ajay_\\downloads\\managementschool\\managementschool\\controllers\\timetablecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD7DAACD-3F98-4D77-BB31-8A428AC876CD}|ManagementSchool.csproj|solutionrelative:controllers\\timetablecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD7DAACD-3F98-4D77-BB31-8A428AC876CD}|ManagementSchool.csproj|c:\\users\\ajay_\\downloads\\managementschool\\managementschool\\controllers\\teachercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD7DAACD-3F98-4D77-BB31-8A428AC876CD}|ManagementSchool.csproj|solutionrelative:controllers\\teachercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD7DAACD-3F98-4D77-BB31-8A428AC876CD}|ManagementSchool.csproj|c:\\users\\ajay_\\downloads\\managementschool\\managementschool\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DD7DAACD-3F98-4D77-BB31-8A428AC876CD}|ManagementSchool.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD7DAACD-3F98-4D77-BB31-8A428AC876CD}|ManagementSchool.csproj|c:\\users\\ajay_\\downloads\\managementschool\\managementschool\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{DD7DAACD-3F98-4D77-BB31-8A428AC876CD}|ManagementSchool.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD7DAACD-3F98-4D77-BB31-8A428AC876CD}|ManagementSchool.csproj|c:\\users\\ajay_\\downloads\\managementschool\\managementschool\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DD7DAACD-3F98-4D77-BB31-8A428AC876CD}|ManagementSchool.csproj|solutionrelative:views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD7DAACD-3F98-4D77-BB31-8A428AC876CD}|ManagementSchool.csproj|c:\\users\\ajay_\\downloads\\managementschool\\managementschool\\models\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD7DAACD-3F98-4D77-BB31-8A428AC876CD}|ManagementSchool.csproj|solutionrelative:models\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD7DAACD-3F98-4D77-BB31-8A428AC876CD}|ManagementSchool.csproj|c:\\users\\ajay_\\downloads\\managementschool\\managementschool\\views\\timetable\\upload.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DD7DAACD-3F98-4D77-BB31-8A428AC876CD}|ManagementSchool.csproj|solutionrelative:views\\timetable\\upload.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD7DAACD-3F98-4D77-BB31-8A428AC876CD}|ManagementSchool.csproj|c:\\users\\ajay_\\downloads\\managementschool\\managementschool\\views\\assignment\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DD7DAACD-3F98-4D77-BB31-8A428AC876CD}|ManagementSchool.csproj|solutionrelative:views\\assignment\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD7DAACD-3F98-4D77-BB31-8A428AC876CD}|ManagementSchool.csproj|c:\\users\\ajay_\\downloads\\managementschool\\managementschool\\models\\timetable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD7DAACD-3F98-4D77-BB31-8A428AC876CD}|ManagementSchool.csproj|solutionrelative:models\\timetable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD7DAACD-3F98-4D77-BB31-8A428AC876CD}|ManagementSchool.csproj|c:\\users\\ajay_\\downloads\\managementschool\\managementschool\\models\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD7DAACD-3F98-4D77-BB31-8A428AC876CD}|ManagementSchool.csproj|solutionrelative:models\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD7DAACD-3F98-4D77-BB31-8A428AC876CD}|ManagementSchool.csproj|c:\\users\\ajay_\\downloads\\managementschool\\managementschool\\models\\assignment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD7DAACD-3F98-4D77-BB31-8A428AC876CD}|ManagementSchool.csproj|solutionrelative:models\\assignment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD7DAACD-3F98-4D77-BB31-8A428AC876CD}|ManagementSchool.csproj|c:\\users\\ajay_\\downloads\\managementschool\\managementschool\\views\\teacher\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DD7DAACD-3F98-4D77-BB31-8A428AC876CD}|ManagementSchool.csproj|solutionrelative:views\\teacher\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD7DAACD-3F98-4D77-BB31-8A428AC876CD}|ManagementSchool.csproj|c:\\users\\ajay_\\downloads\\managementschool\\managementschool\\views\\timetable\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DD7DAACD-3F98-4D77-BB31-8A428AC876CD}|ManagementSchool.csproj|solutionrelative:views\\timetable\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ajay_\\Downloads\\ManagementSchool\\ManagementSchool\\Migrations\\20240909165519_first.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20240909165519_first.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD7DAACD-3F98-4D77-BB31-8A428AC876CD}|ManagementSchool.csproj|c:\\users\\ajay_\\downloads\\managementschool\\managementschool\\models\\leaverequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD7DAACD-3F98-4D77-BB31-8A428AC876CD}|ManagementSchool.csproj|solutionrelative:models\\leaverequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD7DAACD-3F98-4D77-BB31-8A428AC876CD}|ManagementSchool.csproj|c:\\users\\ajay_\\downloads\\managementschool\\managementschool\\views\\leaverequest\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DD7DAACD-3F98-4D77-BB31-8A428AC876CD}|ManagementSchool.csproj|solutionrelative:views\\leaverequest\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD7DAACD-3F98-4D77-BB31-8A428AC876CD}|ManagementSchool.csproj|c:\\users\\ajay_\\downloads\\managementschool\\managementschool\\views\\teacher\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DD7DAACD-3F98-4D77-BB31-8A428AC876CD}|ManagementSchool.csproj|solutionrelative:views\\teacher\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD7DAACD-3F98-4D77-BB31-8A428AC876CD}|ManagementSchool.csproj|c:\\users\\ajay_\\downloads\\managementschool\\managementschool\\models\\class.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD7DAACD-3F98-4D77-BB31-8A428AC876CD}|ManagementSchool.csproj|solutionrelative:models\\class.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD7DAACD-3F98-4D77-BB31-8A428AC876CD}|ManagementSchool.csproj|c:\\users\\ajay_\\downloads\\managementschool\\managementschool\\models\\subject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD7DAACD-3F98-4D77-BB31-8A428AC876CD}|ManagementSchool.csproj|solutionrelative:models\\subject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ajay_\\Downloads\\ManagementSchool\\ManagementSchool\\Migrations\\20240909150654_new.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20240909150654_new.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 732,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ajay_\\Downloads\\ManagementSchool\\ManagementSchool\\Views\\Attendance\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Attendance\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ajay_\\Downloads\\ManagementSchool\\ManagementSchool\\Views\\Attendance\\Index.cshtml",
+              "RelativeToolTip": "Views\\Attendance\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-10T06:28:18.359Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\ajay_\\Downloads\\ManagementSchool\\ManagementSchool\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\ajay_\\Downloads\\ManagementSchool\\ManagementSchool\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "Controllers\\AccountController.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAYwC0AAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T17:38:52.27Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "TeacherProfile.cs",
+              "DocumentMoniker": "C:\\Users\\ajay_\\Downloads\\ManagementSchool\\ManagementSchool\\Models\\TeacherProfile.cs",
+              "RelativeDocumentMoniker": "Models\\TeacherProfile.cs",
+              "ToolTip": "C:\\Users\\ajay_\\Downloads\\ManagementSchool\\ManagementSchool\\Models\\TeacherProfile.cs",
+              "RelativeToolTip": "Models\\TeacherProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T14:34:43.801Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SchoolDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\ajay_\\Downloads\\ManagementSchool\\ManagementSchool\\Data\\SchoolDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\SchoolDbContext.cs",
+              "ToolTip": "C:\\Users\\ajay_\\Downloads\\ManagementSchool\\ManagementSchool\\Data\\SchoolDbContext.cs",
+              "RelativeToolTip": "Data\\SchoolDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T14:34:43.79Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AttendanceController.cs",
+              "DocumentMoniker": "C:\\Users\\ajay_\\Downloads\\ManagementSchool\\ManagementSchool\\Controllers\\AttendanceController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AttendanceController.cs",
+              "ToolTip": "C:\\Users\\ajay_\\Downloads\\ManagementSchool\\ManagementSchool\\Controllers\\AttendanceController.cs",
+              "RelativeToolTip": "Controllers\\AttendanceController.cs",
+              "ViewState": "AgIAAEEAAAAAAAAAAADwv0sAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T16:50:06.308Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ajay_\\Downloads\\ManagementSchool\\ManagementSchool\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\ajay_\\Downloads\\ManagementSchool\\ManagementSchool\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T14:34:43.793Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Mark.cshtml",
+              "DocumentMoniker": "C:\\Users\\ajay_\\Downloads\\ManagementSchool\\ManagementSchool\\Views\\Attendance\\Mark.cshtml",
+              "RelativeDocumentMoniker": "Views\\Attendance\\Mark.cshtml",
+              "ToolTip": "C:\\Users\\ajay_\\Downloads\\ManagementSchool\\ManagementSchool\\Views\\Attendance\\Mark.cshtml",
+              "RelativeToolTip": "Views\\Attendance\\Mark.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-09T16:51:00.804Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Attendance.cs",
+              "DocumentMoniker": "C:\\Users\\ajay_\\Downloads\\ManagementSchool\\ManagementSchool\\Models\\Attendance.cs",
+              "RelativeDocumentMoniker": "Models\\Attendance.cs",
+              "ToolTip": "C:\\Users\\ajay_\\Downloads\\ManagementSchool\\ManagementSchool\\Models\\Attendance.cs",
+              "RelativeToolTip": "Models\\Attendance.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T15:40:28.278Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "LeaveRequestController.cs",
+              "DocumentMoniker": "C:\\Users\\ajay_\\Downloads\\ManagementSchool\\ManagementSchool\\Controllers\\LeaveRequestController.cs",
+              "RelativeDocumentMoniker": "Controllers\\LeaveRequestController.cs",
+              "ToolTip": "C:\\Users\\ajay_\\Downloads\\ManagementSchool\\ManagementSchool\\Controllers\\LeaveRequestController.cs",
+              "RelativeToolTip": "Controllers\\LeaveRequestController.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAYwCoAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T14:34:43.8Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "StudentController.cs",
+              "DocumentMoniker": "C:\\Users\\ajay_\\Downloads\\ManagementSchool\\ManagementSchool\\Controllers\\StudentController.cs",
+              "RelativeDocumentMoniker": "Controllers\\StudentController.cs",
+              "ToolTip": "C:\\Users\\ajay_\\Downloads\\ManagementSchool\\ManagementSchool\\Controllers\\StudentController.cs",
+              "RelativeToolTip": "Controllers\\StudentController.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABcAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T05:05:14.172Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ajay_\\Downloads\\ManagementSchool\\ManagementSchool\\Views\\Student\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Student\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ajay_\\Downloads\\ManagementSchool\\ManagementSchool\\Views\\Student\\Index.cshtml",
+              "RelativeToolTip": "Views\\Student\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-10T05:06:53.381Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\ajay_\\Downloads\\ManagementSchool\\ManagementSchool\\Views\\Student\\Details.cshtml",
+              "RelativeDocumentMoniker": "Views\\Student\\Details.cshtml",
+              "ToolTip": "C:\\Users\\ajay_\\Downloads\\ManagementSchool\\ManagementSchool\\Views\\Student\\Details.cshtml",
+              "RelativeToolTip": "Views\\Student\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-10T05:07:32.425Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\ajay_\\Downloads\\ManagementSchool\\ManagementSchool\\Views\\TeacherProfile\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Views\\TeacherProfile\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\ajay_\\Downloads\\ManagementSchool\\ManagementSchool\\Views\\TeacherProfile\\Edit.cshtml",
+              "RelativeToolTip": "Views\\TeacherProfile\\Edit.cshtml",
+              "ViewState": "AgIAAAcAAAAAAAAAAADwvxoAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-09T14:34:43.785Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "TeacherProfileController.cs",
+              "DocumentMoniker": "C:\\Users\\ajay_\\Downloads\\ManagementSchool\\ManagementSchool\\Controllers\\TeacherProfileController.cs",
+              "RelativeDocumentMoniker": "Controllers\\TeacherProfileController.cs",
+              "ToolTip": "C:\\Users\\ajay_\\Downloads\\ManagementSchool\\ManagementSchool\\Controllers\\TeacherProfileController.cs",
+              "RelativeToolTip": "Controllers\\TeacherProfileController.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAwwBkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T14:34:43.797Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\ajay_\\Downloads\\ManagementSchool\\ManagementSchool\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "Models\\Student.cs",
+              "ToolTip": "C:\\Users\\ajay_\\Downloads\\ManagementSchool\\ManagementSchool\\Models\\Student.cs",
+              "RelativeToolTip": "Models\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T16:48:05.678Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\ajay_\\Downloads\\ManagementSchool\\ManagementSchool\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\ajay_\\Downloads\\ManagementSchool\\ManagementSchool\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAB+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-09T14:34:43.808Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "TimeTableController.cs",
+              "DocumentMoniker": "C:\\Users\\ajay_\\Downloads\\ManagementSchool\\ManagementSchool\\Controllers\\TimeTableController.cs",
+              "RelativeDocumentMoniker": "Controllers\\TimeTableController.cs",
+              "ToolTip": "C:\\Users\\ajay_\\Downloads\\ManagementSchool\\ManagementSchool\\Controllers\\TimeTableController.cs",
+              "RelativeToolTip": "Controllers\\TimeTableController.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAYwBMAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T14:34:43.776Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "AssignmentController.cs",
+              "DocumentMoniker": "C:\\Users\\ajay_\\Downloads\\ManagementSchool\\ManagementSchool\\Controllers\\AssignmentController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AssignmentController.cs",
+              "ToolTip": "C:\\Users\\ajay_\\Downloads\\ManagementSchool\\ManagementSchool\\Controllers\\AssignmentController.cs",
+              "RelativeToolTip": "Controllers\\AssignmentController.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwBsAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T14:34:43.774Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "TeacherController.cs",
+              "DocumentMoniker": "C:\\Users\\ajay_\\Downloads\\ManagementSchool\\ManagementSchool\\Controllers\\TeacherController.cs",
+              "RelativeDocumentMoniker": "Controllers\\TeacherController.cs",
+              "ToolTip": "C:\\Users\\ajay_\\Downloads\\ManagementSchool\\ManagementSchool\\Controllers\\TeacherController.cs",
+              "RelativeToolTip": "Controllers\\TeacherController.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAswCIAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T14:34:43.795Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\ajay_\\Downloads\\ManagementSchool\\ManagementSchool\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\ajay_\\Downloads\\ManagementSchool\\ManagementSchool\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAADwvyMAAACCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-09T17:44:57.619Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Teacher.cs",
+              "DocumentMoniker": "C:\\Users\\ajay_\\Downloads\\ManagementSchool\\ManagementSchool\\Models\\Teacher.cs",
+              "RelativeDocumentMoniker": "Models\\Teacher.cs",
+              "ToolTip": "C:\\Users\\ajay_\\Downloads\\ManagementSchool\\ManagementSchool\\Models\\Teacher.cs",
+              "RelativeToolTip": "Models\\Teacher.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAxwA4AAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T14:34:43.806Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "LoginViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\ajay_\\Downloads\\ManagementSchool\\ManagementSchool\\Models\\LoginViewModel.cs",
+              "RelativeDocumentMoniker": "Models\\LoginViewModel.cs",
+              "ToolTip": "C:\\Users\\ajay_\\Downloads\\ManagementSchool\\ManagementSchool\\Models\\LoginViewModel.cs",
+              "RelativeToolTip": "Models\\LoginViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T17:38:07.521Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\ajay_\\Downloads\\ManagementSchool\\ManagementSchool\\Views\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "Views\\Account\\Login.cshtml",
+              "ToolTip": "C:\\Users\\ajay_\\Downloads\\ManagementSchool\\ManagementSchool\\Views\\Account\\Login.cshtml",
+              "RelativeToolTip": "Views\\Account\\Login.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-09T17:40:16.276Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Assignment.cs",
+              "DocumentMoniker": "C:\\Users\\ajay_\\Downloads\\ManagementSchool\\ManagementSchool\\Models\\Assignment.cs",
+              "RelativeDocumentMoniker": "Models\\Assignment.cs",
+              "ToolTip": "C:\\Users\\ajay_\\Downloads\\ManagementSchool\\ManagementSchool\\Models\\Assignment.cs",
+              "RelativeToolTip": "Models\\Assignment.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAgwCMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T14:34:43.61Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Upload.cshtml",
+              "DocumentMoniker": "C:\\Users\\ajay_\\Downloads\\ManagementSchool\\ManagementSchool\\Views\\TimeTable\\Upload.cshtml",
+              "RelativeDocumentMoniker": "Views\\TimeTable\\Upload.cshtml",
+              "ToolTip": "C:\\Users\\ajay_\\Downloads\\ManagementSchool\\ManagementSchool\\Views\\TimeTable\\Upload.cshtml",
+              "RelativeToolTip": "Views\\TimeTable\\Upload.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-09T17:02:34.572Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Timetable.cs",
+              "DocumentMoniker": "C:\\Users\\ajay_\\Downloads\\ManagementSchool\\ManagementSchool\\Models\\Timetable.cs",
+              "RelativeDocumentMoniker": "Models\\Timetable.cs",
+              "ToolTip": "C:\\Users\\ajay_\\Downloads\\ManagementSchool\\ManagementSchool\\Models\\Timetable.cs",
+              "RelativeToolTip": "Models\\Timetable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAABPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T14:34:43.784Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\ajay_\\Downloads\\ManagementSchool\\ManagementSchool\\Views\\Assignment\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Assignment\\Create.cshtml",
+              "ToolTip": "C:\\Users\\ajay_\\Downloads\\ManagementSchool\\ManagementSchool\\Views\\Assignment\\Create.cshtml",
+              "RelativeToolTip": "Views\\Assignment\\Create.cshtml",
+              "ViewState": "AgIAABUAAAAAAAAAAADwvzAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-09T14:34:43.778Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ajay_\\Downloads\\ManagementSchool\\ManagementSchool\\Views\\Teacher\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Teacher\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ajay_\\Downloads\\ManagementSchool\\ManagementSchool\\Views\\Teacher\\Index.cshtml",
+              "RelativeToolTip": "Views\\Teacher\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-09T14:34:43.792Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "LeaveRequest.cs",
+              "DocumentMoniker": "C:\\Users\\ajay_\\Downloads\\ManagementSchool\\ManagementSchool\\Models\\LeaveRequest.cs",
+              "RelativeDocumentMoniker": "Models\\LeaveRequest.cs",
+              "ToolTip": "C:\\Users\\ajay_\\Downloads\\ManagementSchool\\ManagementSchool\\Models\\LeaveRequest.cs",
+              "RelativeToolTip": "Models\\LeaveRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T14:34:43.803Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\ajay_\\Downloads\\ManagementSchool\\ManagementSchool\\Views\\LeaveRequest\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\LeaveRequest\\Create.cshtml",
+              "ToolTip": "C:\\Users\\ajay_\\Downloads\\ManagementSchool\\ManagementSchool\\Views\\LeaveRequest\\Create.cshtml",
+              "RelativeToolTip": "Views\\LeaveRequest\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-09T14:34:43.789Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\ajay_\\Downloads\\ManagementSchool\\ManagementSchool\\Views\\TimeTable\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\TimeTable\\Create.cshtml",
+              "ToolTip": "C:\\Users\\ajay_\\Downloads\\ManagementSchool\\ManagementSchool\\Views\\TimeTable\\Create.cshtml",
+              "RelativeToolTip": "Views\\TimeTable\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-09T14:34:43.781Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "20240909165519_first.cs",
+              "DocumentMoniker": "C:\\Users\\ajay_\\Downloads\\ManagementSchool\\ManagementSchool\\Migrations\\20240909165519_first.cs",
+              "RelativeDocumentMoniker": "Migrations\\20240909165519_first.cs",
+              "ToolTip": "C:\\Users\\ajay_\\Downloads\\ManagementSchool\\ManagementSchool\\Migrations\\20240909165519_first.cs",
+              "RelativeToolTip": "Migrations\\20240909165519_first.cs",
+              "ViewState": "AgIAAH0AAAAAAAAAAAAuwIwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T16:55:19.751Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\ajay_\\Downloads\\ManagementSchool\\ManagementSchool\\Views\\Teacher\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Teacher\\Create.cshtml",
+              "ToolTip": "C:\\Users\\ajay_\\Downloads\\ManagementSchool\\ManagementSchool\\Views\\Teacher\\Create.cshtml",
+              "RelativeToolTip": "Views\\Teacher\\Create.cshtml",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAIwEcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-09T14:34:43.787Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Class.cs",
+              "DocumentMoniker": "C:\\Users\\ajay_\\Downloads\\ManagementSchool\\ManagementSchool\\Models\\Class.cs",
+              "RelativeDocumentMoniker": "Models\\Class.cs",
+              "ToolTip": "C:\\Users\\ajay_\\Downloads\\ManagementSchool\\ManagementSchool\\Models\\Class.cs",
+              "RelativeToolTip": "Models\\Class.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T14:34:43.804Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Subject.cs",
+              "DocumentMoniker": "C:\\Users\\ajay_\\Downloads\\ManagementSchool\\ManagementSchool\\Models\\Subject.cs",
+              "RelativeDocumentMoniker": "Models\\Subject.cs",
+              "ToolTip": "C:\\Users\\ajay_\\Downloads\\ManagementSchool\\ManagementSchool\\Models\\Subject.cs",
+              "RelativeToolTip": "Models\\Subject.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T14:34:43.809Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "20240909150654_new.cs",
+              "DocumentMoniker": "C:\\Users\\ajay_\\Downloads\\ManagementSchool\\ManagementSchool\\Migrations\\20240909150654_new.cs",
+              "RelativeDocumentMoniker": "Migrations\\20240909150654_new.cs",
+              "ToolTip": "C:\\Users\\ajay_\\Downloads\\ManagementSchool\\ManagementSchool\\Migrations\\20240909150654_new.cs",
+              "RelativeToolTip": "Migrations\\20240909150654_new.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T15:06:54.387Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
